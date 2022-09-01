@@ -1,4 +1,4 @@
-[Link to the Tableau dashboard](https://public.tableau.com/app/profile/berns.piffard/viz/bike_challenge_16612994097820/FinalStory?publish=yes)
+[Link to the Tableau dashboard](https://public.tableau.com/app/profile/berns.piffard/viz/bike_challenge_16612994097820/FinalStory?publish=yes) <br>
 [Bonus Dashboard!](https://public.tableau.com/app/profile/berns.piffard/viz/bikesharing_16612090760980/NYCitiBike)
 
 # Overview
