@@ -4,6 +4,7 @@ The purpose of this analysis was to anaylze Citi bank's bike sharing service in 
 # Results
 
 ![A line graph of the the average bike trip duration that peaks at the beginning of the first hour and declines to near zero from hour 2 on}(https://github.com/bpiffard/bike-challenge/blob/main/Images/TripDuration.png)
+
 Most rides do not last longer than an hour suggesting that these rides are for commuting reasons and not for long-distance endurance exercise
 
 Duration of trips does not seem to differ much by gender, though you can see  that the customer base largely identifies as male
