@@ -1,4 +1,5 @@
 [Link to the Tableau dashboard](https://public.tableau.com/app/profile/berns.piffard/viz/bike_challenge_16612994097820/FinalStory?publish=yes)
+[Bonus Dashboard!](https://public.tableau.com/app/profile/berns.piffard/viz/bikesharing_16612090760980/NYCitiBike)
 
 # Overview
 The purpose of this analysis was to anaylze Citi bank's bike sharing service in New York City. I sought to answer questions such as, how successful does it seem, who is the customer base, and how were the bikes being used? This analysis is meant to suggest whether or not bike sharing is a viable business.
