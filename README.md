@@ -1,5 +1,7 @@
+[Link to the Tableau dashboard](https://public.tableau.com/app/profile/berns.piffard/viz/bike_challenge_16612994097820/FinalStory?publish=yes)
+
 # Overview
-The purpose of this analysis was to anaylze Citi bank's bike sharing service in New York City. I sought to answer questions such as, how successful does it seem, who is the customer base, and how were the bikes being used?
+The purpose of this analysis was to anaylze Citi bank's bike sharing service in New York City. I sought to answer questions such as, how successful does it seem, who is the customer base, and how were the bikes being used? This analysis is meant to suggest whether or not bike sharing is a viable business.
 
 # Results
 
@@ -32,5 +34,4 @@ This visualization seems to show that it is subscribed users that seem to be mor
 The number of subscribers eclipses the number uf unsubscribed customers. This as well as the reliance on commuting suggests the service has become integral to people's lives
 
 # Summary
-
-[Link to the Tableau dashboard](https://public.tableau.com/app/profile/berns.piffard/viz/bike_challenge_16612994097820/FinalStory?publish=yes)
+In conclusion, many customers seem to both be subscribed and use the bikes heavily during times typically set aside for commuting. This suggests that the individuals that us the bike-sharing service have integrated it deeply into their lives. This means that the service likealy has longevity and stability on it's side, but this does not tell us about whether or not the company is growing, or how best to help it grow. Future analysis should include the growth of subscribers over time, as well as a chart showing how long a subscriber had used the service as a guest before commiting to the service. I would also suggest a visualization showing which trips were the most popular, to get a picture on which sorts of neighborhoods are the best candidates for a bike sharing program.
